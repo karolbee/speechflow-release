@@ -1,5 +1,5 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.4.3/SpeechFlow-Setup-1.4.3.exe",
-  "notes": "Bump testowy — do sprawdzenia nowego przepływu Pobierz / Zainstaluj."
+  "version": "1.4.4",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.4.4/SpeechFlow-Setup-1.4.4.exe",
+  "notes": "Ponowny build z zweryfikowanego źródła — naprawa znikającej listy promptów w ustawieniach."
 }
