@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.4.1/SpeechFlow-Setup-1.4.1.exe",
-  "notes": "Przetwórz = kontekstowe menu promptów; panel „Ostatnie” z ikonki (mądre pozycjonowanie, loader na wpisie, odświeżanie pojedynczego elementu)."
+  "version": "1.4.2",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.4.2/SpeechFlow-Setup-1.4.2.exe",
+  "notes": "Aktualizacja rozdzielona na Pobierz i Zainstaluj (osobny, ręczny start instalatora — mniejsza szansa na cichą blokadę SAC). Wykrywa już pobrany instalator."
 }
