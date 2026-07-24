@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.4.2/SpeechFlow-Setup-1.4.2.exe",
-  "notes": "Aktualizacja rozdzielona na Pobierz i Zainstaluj (osobny, ręczny start instalatora — mniejsza szansa na cichą blokadę SAC). Wykrywa już pobrany instalator."
+  "version": "1.4.3",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.4.3/SpeechFlow-Setup-1.4.3.exe",
+  "notes": "Bump testowy — do sprawdzenia nowego przepływu Pobierz / Zainstaluj."
 }
