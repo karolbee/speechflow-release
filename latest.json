@@ -1,5 +1,5 @@
 {
-  "version": "1.3.8",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.3.8/SpeechFlow-Setup-1.3.8.exe",
-  "notes": "Update installs now open the installer visibly, so you can approve any security prompt."
+  "version": "1.4.1",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.4.1/SpeechFlow-Setup-1.4.1.exe",
+  "notes": "Przetwórz = kontekstowe menu promptów; panel „Ostatnie” z ikonki (mądre pozycjonowanie, loader na wpisie, odświeżanie pojedynczego elementu)."
 }
