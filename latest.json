@@ -1,5 +1,5 @@
 {
-  "version": "1.4.4",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.4.4/SpeechFlow-Setup-1.4.4.exe",
-  "notes": "Ponowny build z zweryfikowanego źródła — naprawa znikającej listy promptów w ustawieniach."
+  "version": "1.4.5",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.4.5/SpeechFlow-Setup-1.4.5.exe",
+  "notes": "Trwałość promptów i zeszytów — kopia zapasowa obejmuje zeszyty, przywracanie gdy config pusty."
 }
