@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.5.0/SpeechFlow-Setup-1.5.0.exe",
-  "notes": "Nowa zakładka Projekty (zastępuje Zeszyty) + nowa kolejność zakładek."
+  "version": "1.5.3",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.5.3/SpeechFlow-Setup-1.5.3.exe",
+  "notes": "Projekty: pasek „nagrywam do” przy nagrywaniu, panel z mikrofonu z zakładkami Historia|Projekty, usuwanie nagrania w widoku projektu."
 }
