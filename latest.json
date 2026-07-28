@@ -1,5 +1,5 @@
 {
-  "version": "1.5.3",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.5.3/SpeechFlow-Setup-1.5.3.exe",
-  "notes": "Projekty: pasek „nagrywam do” przy nagrywaniu, panel z mikrofonu z zakładkami Historia|Projekty, usuwanie nagrania w widoku projektu."
+  "version": "1.5.4",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.5.4/SpeechFlow-Setup-1.5.4.exe",
+  "notes": "Prompty i Projekty zapisują się automatycznie — bez klikania „Zapisz”."
 }
