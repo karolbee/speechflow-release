@@ -1,5 +1,5 @@
 {
-  "version": "1.5.4",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.5.4/SpeechFlow-Setup-1.5.4.exe",
-  "notes": "Prompty i Projekty zapisują się automatycznie — bez klikania „Zapisz”."
+  "version": "1.5.5",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.5.5/SpeechFlow-Setup-1.5.5.exe",
+  "notes": "Twarda ochrona promptów i projektów przed utratą — zapisy w tle nie ruszają danych, samonaprawa z kopii, zrzuty ratunkowe."
 }
