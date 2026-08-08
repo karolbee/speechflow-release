@@ -1,5 +1,5 @@
 {
-  "version": "1.5.6",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.5.6/SpeechFlow-Setup-1.5.6.exe",
-  "notes": "Końcówka dyktowania nie ginie już przy stopie i przy Enterze. Nowość: skrót podwójnego stuknięcia, np. Shift Shift."
+  "version": "1.5.8",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.5.8/SpeechFlow-Setup-1.5.8.exe",
+  "notes": "Ostatnie słowa już nie giną przy dłuższym dyktowaniu. Okno ustawień otwiera się i zamyka od razu."
 }
