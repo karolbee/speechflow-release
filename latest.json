@@ -1,5 +1,5 @@
 {
-  "version": "1.5.8",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.5.8/SpeechFlow-Setup-1.5.8.exe",
-  "notes": "Ostatnie słowa już nie giną przy dłuższym dyktowaniu. Okno ustawień otwiera się i zamyka od razu."
+  "version": "1.6.3",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.3/SpeechFlow-Setup-1.6.3.exe",
+  "notes": "Natychmiastowy start nagrywania i dźwięku. Nowości: Esc kończy słuchanie, przycisk znaczników czasu, skrót typu „Shift Shift”."
 }
