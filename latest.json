@@ -1,5 +1,5 @@
 {
-  "version": "1.6.3",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.3/SpeechFlow-Setup-1.6.3.exe",
-  "notes": "Natychmiastowy start nagrywania i dźwięku. Nowości: Esc kończy słuchanie, przycisk znaczników czasu, skrót typu „Shift Shift”."
+  "version": "1.6.4",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.4/SpeechFlow-Setup-1.6.4.exe",
+  "notes": "Nagranie nie zaczyna się już od wznawiania połączenia (co groziło urwaniem pierwszych słów)."
 }
