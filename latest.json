@@ -1,5 +1,5 @@
 {
-  "version": "1.6.4",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.4/SpeechFlow-Setup-1.6.4.exe",
-  "notes": "Nagranie nie zaczyna się już od wznawiania połączenia (co groziło urwaniem pierwszych słów)."
+  "version": "1.6.5",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.5/SpeechFlow-Setup-1.6.5.exe",
+  "notes": "Możesz ustawić, jak długo po nagraniu zostaje komunikat na ekranie (osobno po nagraniu i po prompcie)."
 }
