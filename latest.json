@@ -1,5 +1,5 @@
 {
-  "version": "1.6.5",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.5/SpeechFlow-Setup-1.6.5.exe",
-  "notes": "Możesz ustawić, jak długo po nagraniu zostaje komunikat na ekranie (osobno po nagraniu i po prompcie)."
+  "version": "1.6.6",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.6/SpeechFlow-Setup-1.6.6.exe",
+  "notes": "Maksymalny czas nagrywania można ustawić do 15 minut."
 }
