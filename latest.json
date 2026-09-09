@@ -1,5 +1,5 @@
 {
-  "version": "1.6.6",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.6/SpeechFlow-Setup-1.6.6.exe",
-  "notes": "Maksymalny czas nagrywania można ustawić do 15 minut."
+  "version": "1.6.7",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.7/SpeechFlow-Setup-1.6.7.exe",
+  "notes": "Maksymalny czas nagrywania można ustawić do 60 minut."
 }
