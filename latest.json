@@ -1,5 +1,5 @@
 {
-  "version": "1.6.7",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.6.7/SpeechFlow-Setup-1.6.7.exe",
-  "notes": "Maksymalny czas nagrywania można ustawić do 60 minut."
+  "version": "1.7.2",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.7.2/SpeechFlow-Setup-1.7.2.exe",
+  "notes": "Nowość: transkrypcja także dźwięku z głośników. Przycisk 🔊 we wskaźniku nagrywania domiksowuje to, co gra komputer (rozmowy wideo, filmy) – przydatne na spotkaniach, gdzie mikrofon nie słyszy rozmówców. Domyślnie włączone, jedno kliknięcie wyłącza."
 }
