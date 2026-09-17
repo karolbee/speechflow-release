@@ -1,5 +1,7 @@
 {
-  "version": "1.7.2",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.7.2/SpeechFlow-Setup-1.7.2.exe",
-  "notes": "Nowość: transkrypcja także dźwięku z głośników. Przycisk 🔊 we wskaźniku nagrywania domiksowuje to, co gra komputer (rozmowy wideo, filmy) – przydatne na spotkaniach, gdzie mikrofon nie słyszy rozmówców. Domyślnie włączone, jedno kliknięcie wyłącza."
+  "version": "1.7.3",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.7.3/SpeechFlow-Setup-1.7.3.exe",
+  "size": 35897912,
+  "sha256": "a548c2a2f9ef6f65533ea240537d0667ffe226d872b3a34d04124a32bd58662b",
+  "notes": "Naprawiona aktualizacja z poziomu aplikacji: przerwane pobieranie nie blokuje już instalacji. Pobrany plik jest sprawdzany przed instalacją, a postęp widać w procentach."
 }
