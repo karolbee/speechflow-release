@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v2.0.2/SpeechFlow-Setup-2.0.2.exe",
-  "size": 35919608,
-  "sha256": "b4279011223ed900c7d81e9dbdb6c247cbfc6ecdcf38f8ac20b07311e3c398e6",
-  "notes": "Nowość: agenci Claude Code. Podyktuj zadanie, kliknij 🤖 we wskaźniku nagrywania i wyślij je do wybranej sesji Claude Code, która czeka w tle bez zużywania tokenów. Wtyczka: /plugin marketplace add karolbee/speechflow-release, potem /plugin install speechflow@speechflow. Poza tym: strzałki „wyślij” w panelach promptów i agentów, a podpowiedzi przycisków już nie znikają."
+  "version": "2.0.3",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v2.0.3/SpeechFlow-Setup-2.0.3.exe",
+  "size": 35921672,
+  "sha256": "840f44ed95c6599291c02553e92d2bf6825867ba2e57fc3b3af20c3b83cca4fc",
+  "notes": "Nowość: Ustawienia → Agenci. Jeden przycisk kopiuje instrukcję – wklej ją w sesji Claude Code w swoim projekcie, a Claude sam zainstaluje wtyczkę SpeechFlow i podłączy się jako agent do zadań głosowych."
 }
