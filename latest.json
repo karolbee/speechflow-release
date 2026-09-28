@@ -1,7 +1,7 @@
 {
-  "version": "1.7.3",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v1.7.3/SpeechFlow-Setup-1.7.3.exe",
-  "size": 35897912,
-  "sha256": "a548c2a2f9ef6f65533ea240537d0667ffe226d872b3a34d04124a32bd58662b",
-  "notes": "Naprawiona aktualizacja z poziomu aplikacji: przerwane pobieranie nie blokuje już instalacji. Pobrany plik jest sprawdzany przed instalacją, a postęp widać w procentach."
+  "version": "2.0.2",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v2.0.2/SpeechFlow-Setup-2.0.2.exe",
+  "size": 35919608,
+  "sha256": "b4279011223ed900c7d81e9dbdb6c247cbfc6ecdcf38f8ac20b07311e3c398e6",
+  "notes": "Nowość: agenci Claude Code. Podyktuj zadanie, kliknij 🤖 we wskaźniku nagrywania i wyślij je do wybranej sesji Claude Code, która czeka w tle bez zużywania tokenów. Wtyczka: /plugin marketplace add karolbee/speechflow-release, potem /plugin install speechflow@speechflow. Poza tym: strzałki „wyślij” w panelach promptów i agentów, a podpowiedzi przycisków już nie znikają."
 }
