@@ -1,0 +1,12 @@
+{
+  "name": "speechflow",
+  "version": "1.0.0",
+  "description": "Receive tasks dictated in SpeechFlow (Windows voice dictation) in this Claude Code session. The session waits in the background without using tokens and wakes up when a task arrives.",
+  "author": {
+    "name": "Karol Wegner"
+  },
+  "homepage": "https://github.com/karolbee/speechflow-release",
+  "repository": "https://github.com/karolbee/speechflow-release",
+  "license": "MIT",
+  "keywords": ["speechflow", "voice", "dictation", "agent", "windows"]
+}

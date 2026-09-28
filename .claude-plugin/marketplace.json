@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "speechflow",
+  "description": "Plugins for SpeechFlow, a Windows voice dictation app: send dictated tasks to Claude Code sessions.",
+  "owner": {
+    "name": "Karol Wegner"
+  },
+  "plugins": [
+    {
+      "name": "speechflow",
+      "source": "./plugins/speechflow",
+      "description": "Receive tasks dictated in SpeechFlow in this Claude Code session. The session waits in the background without using tokens and wakes up when a task arrives.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "homepage": "https://github.com/karolbee/speechflow-release"
+    }
+  ]
+}
