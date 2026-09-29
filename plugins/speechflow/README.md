@@ -26,7 +26,12 @@ In Claude Code:
 
 Other commands: `/speechflow:status`, `/speechflow:disconnect` and `/speechflow:wake`.
 
-**After a computer restart** the background listeners stop. Agents, approvals and queued tasks stay. In any Claude session say *wznów agentów SpeechFlow* (or run `/speechflow:wake`). Claude then messages each offline agent's session, and each one reconnects the same agent. This requires SpeechFlow 2.0.4 or newer and the Claude desktop app.
+**After a computer restart** everything comes back by itself (SpeechFlow 2.0.5 or newer with the Claude desktop app):
+
+1. When Windows starts, SpeechFlow opens the Claude sessions of agents whose listeners stopped. Opening a session by its `claude://` link starts it.
+2. When a session starts or resumes, this plugin's `SessionStart` hook resumes listening for its agent. The hook runs with `asyncRewake`, so it needs no model turn and uses no tokens. It wakes Claude only when a task arrives.
+
+Agents, approvals and queued tasks are never lost. If an agent does not come back, say *wznów agentów SpeechFlow* in any Claude session (or run `/speechflow:wake`): Claude then messages each offline agent's session. The automatic restore can be turned off in SpeechFlow → Settings → Agents.
 
 Tip: when Claude asks whether it may run the `sf-agent.ps1 wait` and `done` commands, choose *don't ask again*. The loop can then run unattended.
 

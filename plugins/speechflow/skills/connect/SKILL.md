@@ -70,13 +70,16 @@ powershell -NoProfile -ExecutionPolicy Bypass -File "C:\...\SpeechFlow\bridge\sf
 Rules for the listener:
 
 - Start at most one listener for this agent.
+- With SpeechFlow 2.0.5 or newer, the plugin's SessionStart hook starts listening by itself whenever this session starts or resumes, for example after a computer restart. The `wait` command then prints `SPEECHFLOW_ALREADY_LISTENING`, which is fine.
 - Do not poll, sleep or use the Monitor tool. Monitor expires and costs tokens to re-arm. The background command runs until a task arrives, and you are notified when it exits.
 - Before approval the listener simply waits. Approving the agent in SpeechFlow does not wake you.
 - Suggest that the user allows the listening command and the `done` command with "don't ask again", so a permission prompt never blocks the loop while they are away. Both commands are identical every time.
 
 ## When the background listener finishes
 
-Read its output. The first line is one of:
+Read its output. A task can also arrive as a system reminder from the plugin's SessionStart hook: a text containing `SPEECHFLOW_TASK` and NEXT STEPS, which may be labelled as a hook error. Handle it exactly the same way.
+
+The first line of the output is one of:
 
 - **`SPEECHFLOW_TASK`** — follow its NEXT STEPS:
   1. Read `task_file` (UTF-8).

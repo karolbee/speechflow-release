@@ -1,0 +1,17 @@
+{
+  "description": "SpeechFlow: a session that owns a SpeechFlow agent starts listening for dictated tasks by itself when it starts or resumes (for example after a computer restart), and wakes up only when a task arrives.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"${CLAUDE_PLUGIN_ROOT}/scripts/sf-hook.ps1\"",
+            "asyncRewake": true
+          }
+        ]
+      }
+    ]
+  }
+}
