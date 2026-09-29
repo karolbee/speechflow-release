@@ -24,7 +24,9 @@ In Claude Code:
    - Clicking the row sends the recording when you stop.
    - The button at the end of the row stops and sends right away.
 
-Other commands: `/speechflow:status` and `/speechflow:disconnect`.
+Other commands: `/speechflow:status`, `/speechflow:disconnect` and `/speechflow:wake`.
+
+**After a computer restart** the background listeners stop. Agents, approvals and queued tasks stay. In any Claude session say *wznów agentów SpeechFlow* (or run `/speechflow:wake`). Claude then messages each offline agent's session, and each one reconnects the same agent. This requires SpeechFlow 2.0.4 or newer and the Claude desktop app.
 
 Tip: when Claude asks whether it may run the `sf-agent.ps1 wait` and `done` commands, choose *don't ask again*. The loop can then run unattended.
 

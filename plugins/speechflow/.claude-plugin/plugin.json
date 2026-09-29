@@ -1,6 +1,6 @@
 {
   "name": "speechflow",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Receive tasks dictated in SpeechFlow (Windows voice dictation) in this Claude Code session. The session waits in the background without using tokens and wakes up when a task arrives.",
   "author": {
     "name": "Karol Wegner"
