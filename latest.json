@@ -1,7 +1,8 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v3.0.0/SpeechFlow-Setup-3.0.0.exe",
-  "size": 35937096,
-  "sha256": "3a6c89810cae453b77685de6b7bb441f04d3f0d0ae1ba4f17d1db61b970a4c23",
-  "notes": "SpeechFlow 3.0 – agenci Claude. Agent to folder z instrukcjami (Ustawienia → Agenci). Dyktujesz notatkę, klikasz 🤖 i wybierasz agenta: SpeechFlow uruchamia w tle Claude Code na Twoim koncie, a wynik przychodzi jako powiadomienie. Stare łączenie sesji Claude przez wtyczkę zostało usunięte – SpeechFlow posprząta je sam."
+  "version": "3.1.0",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v3.1.0/SpeechFlow-Setup-3.1.0.exe",
+  "size": 39439248,
+  "sha256": "ae9d78d702f4f096f21323c7423d4778817a2dc065668ff9e3365dccbcd9212d",
+  "notes": "SpeechFlow 3.1 – gdy agent Claude pracuje w tle, wokół małej ikonki mikrofonu kręci się łuk; znika razem z powiadomieniem o wyniku. Uprawnienia agentów (Ustawienia → Agenci): wybierasz serwery MCP, a domyślnie agent tylko czyta pliki w swoim folderze – bez poleceń, internetu i sekretów. Aktualizacje są teraz podpisane. SpeechFlow usunie swój stary certyfikat z zaufanych – Windows poprosi o potwierdzenie, kliknij „Tak”.",
+  "signature": "slNqVeBBYMWU0GbvWAfR3/UnDc6lXtk00NqnuMSTwVYdkBxRHVU/CMrlO/KUh4wga/0kq41oRutggrKJAk2MDg=="
 }
