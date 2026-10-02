@@ -5,13 +5,8 @@ Windows voice dictation: press a hotkey and speak. The text is typed into the fo
 - **Download:** [latest release](https://github.com/karolbee/speechflow-release/releases/latest). Installed apps update themselves from Settings → Check for updates.
 - `latest.json` is the update manifest that the app reads.
 
-## Claude Code plugin
+## Claude agents (SpeechFlow 3.0)
 
-The plugin sends tasks you dictate in SpeechFlow to a chosen Claude Code session. The session waits in the background without using tokens.
+An agent is a folder on your computer with instructions (Settings → Agents). Dictate a note, click 🤖 and pick the agent: SpeechFlow runs Claude Code there in the background on your Claude account and shows the result as a notification. Requires [Claude Code](https://docs.claude.com/en/docs/claude-code) – Settings → Agents has Install and Sign in buttons.
 
-```
-/plugin marketplace add karolbee/speechflow-release
-/plugin install speechflow@speechflow
-```
-
-It requires SpeechFlow 2.0 or newer. See [plugins/speechflow/README.md](plugins/speechflow/README.md) for details.
+The Claude Code plugin that connected Claude sessions to SpeechFlow 2.x was retired in 3.0. You can remove it with `claude plugin uninstall speechflow@speechflow`.
