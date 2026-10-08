@@ -1,8 +1,8 @@
 {
-  "version": "3.1.0",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v3.1.0/SpeechFlow-Setup-3.1.0.exe",
-  "size": 39439248,
-  "sha256": "ae9d78d702f4f096f21323c7423d4778817a2dc065668ff9e3365dccbcd9212d",
-  "notes": "SpeechFlow 3.1 – gdy agent Claude pracuje w tle, wokół małej ikonki mikrofonu kręci się łuk; znika razem z powiadomieniem o wyniku. Uprawnienia agentów (Ustawienia → Agenci): wybierasz serwery MCP, a domyślnie agent tylko czyta pliki w swoim folderze – bez poleceń, internetu i sekretów. Aktualizacje są teraz podpisane. SpeechFlow usunie swój stary certyfikat z zaufanych – Windows poprosi o potwierdzenie, kliknij „Tak”.",
-  "signature": "slNqVeBBYMWU0GbvWAfR3/UnDc6lXtk00NqnuMSTwVYdkBxRHVU/CMrlO/KUh4wga/0kq41oRutggrKJAk2MDg=="
+  "version": "4.0.0",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v4.0.0/SpeechFlow-Setup-4.0.0.exe",
+  "size": 39400840,
+  "sha256": "3aea1db9abe95059615c94c6620cfbb0980fe5df47ff59d99cdb2b016d7624b3",
+  "notes": "SpeechFlow 4.0 – nowy wygląd: motyw jasny i ciemny (albo jak Windows) i kolor akcentu (na dole menu Ustawień). Nowy pasek nagrywania: czas, fala dźwięku, wybrany prompt lub agent jako etykieta z X, tryb minimalny. Panel agentów pokazuje folder, czas pracy i kolejkę; klawisze 1–9 wybierają agenta. Wynik agenta widać w Historii pod nagraniem. Cała aplikacja po polsku albo po angielsku (Ustawienia → Ogólne).",
+  "signature": "/cd7t82531oJ2VcFF3hTiVFzO7FzhyPV/IRQzeKkjuzt+js0A4jvJunoy5QVnsPV5JAKu80OYu2KvwYg3Ep7Bw=="
 }
