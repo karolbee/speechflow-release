@@ -1,8 +1,8 @@
 {
-  "version": "4.0.0",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v4.0.0/SpeechFlow-Setup-4.0.0.exe",
-  "size": 39400840,
-  "sha256": "3aea1db9abe95059615c94c6620cfbb0980fe5df47ff59d99cdb2b016d7624b3",
-  "notes": "SpeechFlow 4.0 – nowy wygląd: motyw jasny i ciemny (albo jak Windows) i kolor akcentu (na dole menu Ustawień). Nowy pasek nagrywania: czas, fala dźwięku, wybrany prompt lub agent jako etykieta z X, tryb minimalny. Panel agentów pokazuje folder, czas pracy i kolejkę; klawisze 1–9 wybierają agenta. Wynik agenta widać w Historii pod nagraniem. Cała aplikacja po polsku albo po angielsku (Ustawienia → Ogólne).",
-  "signature": "/cd7t82531oJ2VcFF3hTiVFzO7FzhyPV/IRQzeKkjuzt+js0A4jvJunoy5QVnsPV5JAKu80OYu2KvwYg3Ep7Bw=="
+  "version": "4.2.0",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v4.2.0/SpeechFlow-Setup-4.2.0.exe",
+  "size": 65838912,
+  "sha256": "2122fa934d3ee8bd1f92828ed8c2523edbfe317731868a2aa56a0c54559eab53",
+  "notes": "SpeechFlow 4.2 – nagrywanie fragmentu ekranu: przycisk na pasku, zaznaczasz obszar, a po zatrzymaniu dostajesz film, transkrypcję ze znacznikami czasu i klatki (także jako zip); w schowku na końcu tekstu jest ścieżka do folderu nagrania. Zadania agentów: po wyniku pojawia się powiadomienie SpeechFlow, klik pokazuje całą odpowiedź; historia w Ustawienia → Agenci → Zadania.",
+  "signature": "BxoE5jaG40+7oBT5BYFapuec0caoJOJKtcHUPsiZlRWONJcpU69pE6O63LgHAS5rDSbRAVA5IniCXPSbCuAhDg=="
 }
