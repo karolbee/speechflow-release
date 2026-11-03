@@ -1,8 +1,8 @@
 {
-  "version": "4.2.0",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v4.2.0/SpeechFlow-Setup-4.2.0.exe",
-  "size": 65838912,
-  "sha256": "2122fa934d3ee8bd1f92828ed8c2523edbfe317731868a2aa56a0c54559eab53",
-  "notes": "SpeechFlow 4.2 – nagrywanie fragmentu ekranu: przycisk na pasku, zaznaczasz obszar, a po zatrzymaniu dostajesz film, transkrypcję ze znacznikami czasu i klatki (także jako zip); w schowku na końcu tekstu jest ścieżka do folderu nagrania. Zadania agentów: po wyniku pojawia się powiadomienie SpeechFlow, klik pokazuje całą odpowiedź; historia w Ustawienia → Agenci → Zadania.",
-  "signature": "BxoE5jaG40+7oBT5BYFapuec0caoJOJKtcHUPsiZlRWONJcpU69pE6O63LgHAS5rDSbRAVA5IniCXPSbCuAhDg=="
+  "version": "4.2.1",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v4.2.1/SpeechFlow-Setup-4.2.1.exe",
+  "size": 65843928,
+  "sha256": "be3a47c4b22b14792f3ef5eeb231f9f87cf4be8727206732aa3ab9efaf9d432f",
+  "notes": "SpeechFlow 4.2.1 – poprawka nagrywania ekranu: nagranie zapisuje się zawsze w całości (film, transkrypcja ze znacznikami czasu, klatki i zip). Wcześniej czasem brakowało transkrypcji i zipa, gdy zaraz po starcie kończyło się poprzednie zdanie.",
+  "signature": "oLunlaCYLiJ7ngoua2iP8Zd43idyk8zyqsNAq4c3xeyg00NaaJNU9QLiVdPTc/V5K5/N7FF3VKn/qkymBXwhDg=="
 }
