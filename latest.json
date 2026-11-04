@@ -1,8 +1,8 @@
 {
-  "version": "4.2.1",
-  "url": "https://github.com/karolbee/speechflow-release/releases/download/v4.2.1/SpeechFlow-Setup-4.2.1.exe",
-  "size": 65843928,
-  "sha256": "be3a47c4b22b14792f3ef5eeb231f9f87cf4be8727206732aa3ab9efaf9d432f",
-  "notes": "SpeechFlow 4.2.1 – poprawka nagrywania ekranu: nagranie zapisuje się zawsze w całości (film, transkrypcja ze znacznikami czasu, klatki i zip). Wcześniej czasem brakowało transkrypcji i zipa, gdy zaraz po starcie kończyło się poprzednie zdanie.",
-  "signature": "oLunlaCYLiJ7ngoua2iP8Zd43idyk8zyqsNAq4c3xeyg00NaaJNU9QLiVdPTc/V5K5/N7FF3VKn/qkymBXwhDg=="
+  "version": "4.3.0",
+  "url": "https://github.com/karolbee/speechflow-release/releases/download/v4.3.0/SpeechFlow-Setup-4.3.0.exe",
+  "size": 65842560,
+  "sha256": "54f50da9afc25630a61bad9fe7391cdc83d262810a81691450632173966b8cef",
+  "notes": "SpeechFlow 4.3.0 – pasek nagrywania można zwinąć do małego mikrofonu (przycisk po lewej, zaraz za uchwytem). Zwinięty mikrofon pokazuje, że trwa nagrywanie, da się go przesuwać, a kliknięcie rozwija pełny pasek. SpeechFlow pamięta zwinięcie także po ponownym uruchomieniu.",
+  "signature": "x1q0iv9RFuS/+iL2DVqGmMdytDXAJCI0ZAJSyuIlti4HafF3DBeJVD0HfuyoY0LW9YNBXQ99vGlQQh/w4goSDA=="
 }
